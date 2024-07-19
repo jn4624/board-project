@@ -20,3 +20,6 @@ board-project/
 └── build.gradle
 ```
 
+### 2. 도메인 모델 분석
+<img src="https://github.com/user-attachments/assets/178c82b2-726a-46ca-84c1-5b3a116c9b20">
+
