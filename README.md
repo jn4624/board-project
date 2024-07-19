@@ -26,3 +26,5 @@ board-project/
 ### 3. 엔티티 분석
 <img src="https://github.com/user-attachments/assets/88899733-219d-40ac-a9ff-fcdf9fa04499">
 
+### 4. 테이블 분석
+<img src="https://github.com/user-attachments/assets/f25bd022-4e9e-4f5d-95ac-7f3b02127db7">
